@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CozyLife - A Healing Space",
+  "description": "A warm, healing-themed productivity and blog application featuring task management, creative writing, and entertainment modules designed to bring peace to your daily routine.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
